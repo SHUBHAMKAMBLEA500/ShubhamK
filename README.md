@@ -1,4 +1,8 @@
 <!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/banner.png" alt="Shubham Kamble Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shubham Kamble</h1>
 <h3 align="center">Aspiring Software Developer | Web Developer | AI Enthusiast</h3>
 
@@ -11,6 +15,15 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AI Tools-%23FF6F00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="mailto:shubhamkamblea500@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubhamkamble500" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -27,7 +40,8 @@
 
 📍 SWVSM Colony, Warananagar, Kolhapur 416113  
 📞 +91-8263835576  
-📧 [shubhamkamblea500@gmail.com](shubhamkamblea500@gmail.com)  
+📧 [shubhamkamblea500@gmail.com](mailto:shubhamkamblea500@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shubhamkamble500)  
 🎂 **D.O.B:** 15/05/2002
 
 ---
@@ -52,7 +66,7 @@ To achieve a responsible position in the software industry where I can utilize a
 
 - 🧠 **Programming Languages:** C, C++, Java (Basic), Python (Basic), OOPs  
 - 🌐 **Web Technologies:** HTML, CSS, JavaScript  
-- 🗃️ **Database:** MySQL,SQL 
+- 🗃️ **Database:** MySQL, SQL  
 - 🤖 **AI Tools:** Prompt Engineering, PowerBI  
 - 🔧 **Others:** Git, GitHub, APIs
 
@@ -74,13 +88,15 @@ To achieve a responsible position in the software industry where I can utilize a
 
 ## 🚀 Projects
 
-### Hostel Accommodation System  
+### 🔹 Hostel Accommodation System  
 **Tech Stack:** C++, OOPs, MySQL  
-A student hostel room management system with room allocation, data tracking, etc.
+A student hostel room management system with room allocation, data tracking, etc.  
+🔗 [View Project](https://github.com/your-github-username/hostel-accommodation-system)
 
-### Weather Prediction Model  
+### 🔹 Weather Prediction Model  
 **Tech Stack:** Python, HTML, CSS, APIs  
-Predicts temperature and humidity using external weather APIs and ML logic.
+Predicts temperature and humidity using external weather APIs and ML logic.  
+🔗 [View Project](https://github.com/your-github-username/weather-prediction-ml)
 
 ---
 
@@ -94,18 +110,18 @@ Predicts temperature and humidity using external weather APIs and ML logic.
 
 ## 🎯 Co-Curricular & Leadership
 
-- 🧩 Technical quiz participant – C++ (ACES)
-- 💡 Member of “Logic Code” Technical Committee (2020–2023)
-- ⚽ Sports Team Leader (School Level – 2 years)
-- 🥇 NCC 'C' Certificate Holder
+- 🧩 Technical quiz participant – C++ (ACES)  
+- 💡 Member of “Logic Code” Technical Committee (2020–2023)  
+- ⚽ Sports Team Leader (School Level – 2 years)  
+- 🥇 NCC 'C' Certificate Holder  
 - 🏃 Participated in university athletics: 200m, 800m, 4x100m relay
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🏃‍♂️ I love **running**, **cycling**, and **trekking**
-- 🧠 Always curious to **learn something new**
+- 🏃‍♂️ I love **running**, **cycling**, and **trekking**  
+- 🧠 Always curious to **learn something new**  
 - 🖥️ Big fan of building **real-world tech solutions**
 
 ---
@@ -115,6 +131,3 @@ Predicts temperature and humidity using external weather APIs and ML logic.
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
