@@ -1,8 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Shubham Kamble Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shubham Kamble</h1>
 <h3 align="center">Aspiring Software Developer | Web Developer | AI Enthusiast</h3>
 
@@ -101,7 +97,7 @@ Predicts temperature and humidity using external weather APIs and ML logic.
 - 🧩 Technical quiz participant – C++ (ACES)
 - 💡 Member of “Logic Code” Technical Committee (2020–2023)
 - ⚽ Sports Team Leader (School Level – 2 years)
-- 🥇 NCC 'B' Certificate Holder, 'C' appearing
+- 🥇 NCC 'C' Certificate Holder
 - 🏃 Participated in university athletics: 200m, 800m, 4x100m relay
 
 ---
